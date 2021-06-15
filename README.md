@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stevenabadie
+- 👋 Hi, I’m Steven Abadie
 - 👀 I'm interested in data science, web development, and indie entrepreneurship
 - 🌱 Currently digging into machine learning and dusting off my math knowledge
 - 🤝 Looking to collaborate on data science research projects
