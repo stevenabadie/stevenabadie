@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Steven Abadie
 - 👀 I'm interested in data science, web development, and indie entrepreneurship
 - 🌱 Currently digging into machine learning and dusting off my math knowledge
-- 🤝 Looking to collaborate on data science research projects
-- 🎙️ Cohost of the [Modest Product Podcast](https://modprodpod.com)
 - 💬 Get in touch with me on [Twitter](https://twitter.com/stabadie)
 
 <!---
