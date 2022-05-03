@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Steven Abadie
-- 👀 I'm interested in data science, web development, and indie entrepreneurship
-- 🌱 Currently digging into machine learning and dusting off my math knowledge
-- 💬 Get in touch with me on [Twitter](https://twitter.com/stabadie)
+- 👀 I'm a Full stack Software Engineer with a past in technical and operations management
+- 🌱 Currently I'm working most often in Typescript/NodeJS but cut my teeth on Python and am currently building knowledge in Go. 
+- 💬 Get in touch with me on [LinkedIn](https://www.linkedin.com/in/steven-abadie/)
 
 <!---
 stevenabadie/stevenabadie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
